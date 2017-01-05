@@ -1,0 +1,132 @@
+/*Theme Name: LynxJetTheme URI: http://lynxjet.devTemplate: TraveloAuthor: Itay BannerAuthor URI: http://ibanner.co.ilDescription: Travelo Child Theme - Customized fot LynxJet Private FlightsVersion: 1.0.1449008127Updated: 2015-12-02 00:15:27*/
+
+button,
+input[type="submit"] {
+    font-family: 'open sans hebrew', sans-serif;
+}
+
+.contact-details {
+    direction: ltr;
+}
+
+.icon-box.style7 .description .view {
+    font-family: 'Open Sans Hebrew', sans-serif;
+}
+
+.fc-block {
+    margin-left: 0 !important;
+    padding-right: 10px;
+}
+
+#header.style7 #main-menu > ul.menu > li > a {
+    padding-right: 35px;
+    padding-left: 0;
+    font-size: 120%;
+}
+
+#main-menu ul.menu > li:first-child,
+.chaser ul.menu > li:first-child {
+    padding-left: 20px;
+}
+
+#main-menu ul.menu > li:last-child,
+.chaser ul.menu > li:last-child {
+    padding-right: 20px;
+}
+
+#main-menu ul.menu > li ul li > a,
+.chaser ul.menu > li ul li > a {
+    font-family: 'Open Sans Hebrew', sans-serif;
+}
+
+#main-menu ul.menu > li ul li:hover > a,
+#main-menu ul.menu > li ul li.current-menu-item > a,
+#main-menu ul.menu > li ul li.current-menu-ancestor > a,
+.chaser ul.menu > li ul li:hover > a,
+.chaser ul.menu > li ul li.current-menu-item > a,
+.chaser ul.menu > li ul li.current-menu-ancestor > a {
+    font-family: 'Open Sans Hebrew', sans-serif;
+}
+
+#header .ribbon > a {
+    padding: 0 0 0 15px;
+}
+
+.chaser ul.menu > li > a {
+    padding-right: 15px;
+    padding-left: 0;
+}
+
+.logo.pull-left {
+    float: left !important;
+}
+
+.copyright.pull-right,
+.back-to-top.pull-right {
+    float: right !important;
+}
+
+.services small {
+    font-family: 'Open Sans Hebrew', sans-serif;
+}
+
+h1,
+.h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+#main-menu ul.menu > li > a,
+.chaser ul.menu > li > a,
+p.hero {
+    font-family: 'Open Sans Hebrew', sans-serif;
+}
+
+.form-title i {
+    padding-left: 10px;
+}
+
+.departure-wrap:after,
+.arrival-wrap:after,
+.selector-wrap:after {
+    right: 0;
+    left: initial;
+}
+
+.form-title i {
+    padding-right: 0;
+    padding-left: 10px;
+}
+
+.selector-number {
+    padding-left: initial;
+    padding-right: 50%;
+}
+
+#submit input {
+    width: 100%;
+    margin: 0 0 0 4px;
+}
+
+@media (max-width: 991px) {
+    #header .logo {
+        margin-left: 5px;
+        text-align: left;
+        direction: ltr;
+        float: left !important;
+    }
+
+    .container.mobile-brand {
+        padding-left: 76px;
+    }
+    a.call-us {
+        float: right;
+    }
+}
+
+@media (max-width: 480px) {
+    .services small {
+        font-family: 'Open Sans Hebrew', sans-serif;
+    }
+}

@@ -1,0 +1,644 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Travelo\n"
+"POT-Creation-Date: 2016-01-18 10:14+0200\n"
+"PO-Revision-Date: 2016-01-18 10:15+0200\n"
+"Last-Translator: Itay Banner <itay@ibanner.co.il>\n"
+"Language-Team: The Contechnician <itay@ibanner.co.il>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../inc/lib\n"
+
+#: ../404.php:53 ../404.php:64 ../404.php:86
+#: ../templates/headers/header7.php:89
+msgid "Home"
+msgstr "Главная"
+
+#: ../404.php:54 ../404.php:87 ../templates/headers/header7.php:90
+msgid "Configure"
+msgstr "Конфигурация"
+
+#: ../404.php:69
+msgid "The page <i>you were looking for</i> could not be found."
+msgstr "Страница,<i> которую вы ищете,</i> не может быть найдена."
+
+#: ../footer.php:31
+msgid "Site by"
+msgstr "Бизнес-сайт"
+
+#: ../footer.php:31
+msgid "The Contechnician"
+msgstr "The Contechnician"
+
+#: ../footer.php:38
+msgid "LynxJet Private Flights"
+msgstr "LynxJet - частные полеты"
+
+#: ../templates/headers/header7.php:7
+msgid "language_class"
+msgstr "russian"
+
+#: ../templates/headers/header7.php:30
+msgid "For Travel Agents"
+msgstr "Вход для турагентов"
+
+#: ../templates/template-aircraft-category.php:31
+msgid "Category Description"
+msgstr "Описание категории"
+
+#: ../templates/template-aircraft-category.php:37
+#: ../templates/template-aircraft.php:83
+msgid "Tech Spec"
+msgstr "Техническая спецификация"
+
+#: ../templates/template-aircraft-category.php:40
+#: ../templates/template-aircraft.php:86
+msgid "Maximum Passengers"
+msgstr "Макс. пассажиров"
+
+#: ../templates/template-aircraft-category.php:41
+#: ../templates/template-aircraft.php:88
+msgid "Maximum Range"
+msgstr "Макс. диапазон"
+
+#: ../templates/template-aircraft-category.php:41
+#: ../templates/template-aircraft.php:88
+msgid "Km"
+msgstr "км"
+
+#: ../templates/template-aircraft-category.php:42
+#: ../templates/template-aircraft.php:87
+msgid "Maximum Cruising Speed"
+msgstr "Макс. скорость полета"
+
+#: ../templates/template-aircraft-category.php:42
+#: ../templates/template-aircraft.php:87
+msgid "KmH"
+msgstr "км/ч"
+
+#: ../templates/template-aircraft-category.php:50
+msgid "Category Jets"
+msgstr "Категория самолета"
+
+#: ../templates/template-aircraft-main.php:28
+msgid "Our Aircraft Fleet"
+msgstr "Наш флот самолета"
+
+#: ../templates/template-aircraft-main.php:29
+msgid ""
+"Which aircraft will best suit your flight plans? Let us help you choose the "
+"model that will fit your needs!"
+msgstr ""
+"Какие самолеты будут наилучшим образом удовлетворить ваши планы полета ? "
+"Позвольте нам помочь вам выбрать модель, которая будет соответствовать вашим "
+"потребностям!"
+
+#: ../templates/template-aircraft.php:17
+msgid "Full"
+msgstr "Полный"
+
+#: ../templates/template-aircraft.php:20
+msgid "Partial"
+msgstr "Частичный"
+
+#: ../templates/template-aircraft.php:23
+msgid "None"
+msgstr "Нет"
+
+#: ../templates/template-aircraft.php:54
+msgid "Aircraft Description"
+msgstr "Описание самолета"
+
+#: ../templates/template-aircraft.php:89
+msgid "Cabin Height"
+msgstr "Высота салона"
+
+#: ../templates/template-aircraft.php:89 ../templates/template-aircraft.php:90
+#: ../templates/template-aircraft.php:91
+msgid "Cm"
+msgstr "см"
+
+#: ../templates/template-aircraft.php:90
+msgid "Cabin Width"
+msgstr "Ширина салона"
+
+#: ../templates/template-aircraft.php:91
+msgid "Cabin Length"
+msgstr "Длина салона"
+
+#: ../templates/template-aircraft.php:92
+msgid "Lavatory"
+msgstr "Туалет"
+
+#~ msgid "results found."
+#~ msgstr "Результаты найдены"
+
+#~ msgid "Modify Search"
+#~ msgstr "Изменить параметры поиска"
+
+#~ msgid "Your Destination"
+#~ msgstr "Ваш пункт назначения"
+
+#~ msgid "enter a destination or hotel name"
+#~ msgstr "Введите пункт назначения или название гостиницы"
+
+#~ msgid "Adults"
+#~ msgstr "Взрослые"
+
+#~ msgid "Kids"
+#~ msgstr "Дети"
+
+#~ msgid "Child "
+#~ msgstr "Ребенок"
+
+#~ msgid "search again"
+#~ msgstr "Повторить поиск"
+
+#~ msgid "User Rating"
+#~ msgstr "Ранг пользователя"
+
+#~ msgid "All Ratings"
+#~ msgstr "Все ранги"
+
+#~ msgid "and Above"
+#~ msgstr "и выше"
+
+#~ msgid "All"
+#~ msgstr "Все"
+
+#~ msgid "Previous"
+#~ msgstr "Предыдущий"
+
+#~ msgid "Next"
+#~ msgstr "Следующий"
+
+#~ msgid "From"
+#~ msgstr "От:"
+
+#~ msgid "To"
+#~ msgstr "До:"
+
+#~ msgid "LOAD MORE POSTS"
+#~ msgstr "Представить дополнительные публикации"
+
+#~ msgid "No posts found."
+#~ msgstr "Дополнительные публикации не найдены"
+
+#~ msgid "About"
+#~ msgstr "Описание"
+
+#~ msgid "Posts"
+#~ msgstr "Публикации"
+
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view comments."
+#~ msgstr ""
+#~ "Страница защищена паролем. Для просмотра комментариев введите пароль."
+
+#~ msgid "No Comments"
+#~ msgstr "Комментариев нет"
+
+#~ msgid "One Comment"
+#~ msgstr "Один комментарий"
+
+#~ msgid "Comments"
+#~ msgstr "Комментарии"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Комментарии закрыты"
+
+#~ msgid "Your Message"
+#~ msgstr "Ваше сообщение"
+
+#~ msgid "Leave a Comment"
+#~ msgstr "Оставить комментарий"
+
+#~ msgid "Your email address will not be published. All fields are required."
+#~ msgstr ""
+#~ "Адрес вашей электронной почты не будет опубликован. Заполните, "
+#~ "пожалуйста, все поля."
+
+#~ msgid "Your Name"
+#~ msgstr "Ваше имя"
+
+#~ msgid "Your Email"
+#~ msgstr "Адрес вашей эл. почты"
+
+#~ msgid "LOGOUT"
+#~ msgstr "Выход"
+
+#~ msgid "LOGIN"
+#~ msgstr "Вход"
+
+#~ msgid "SIGNUP"
+#~ msgstr "Регистрация"
+
+#~ msgid "user name"
+#~ msgstr "Имя пользователя"
+
+#~ msgid "email address"
+#~ msgstr "Адрес эл. почты"
+
+#~ msgid "SIGN UP"
+#~ msgstr "Регистрация"
+
+#~ msgid "Already a member?"
+#~ msgstr "Уже зарегистрированы?"
+
+#~ msgid "Login"
+#~ msgstr "Вход"
+
+#~ msgid "password"
+#~ msgstr "Пароль"
+
+#~ msgid "Forgot password?"
+#~ msgstr "Забыли пароль?"
+
+#~ msgid "Remember me"
+#~ msgstr "Запомнить меня"
+
+#~ msgid "LOG IN"
+#~ msgstr "Вход"
+
+#~ msgid "Don't have an account?"
+#~ msgstr "Еще не зарегистрировались?"
+
+#~ msgid "Sign up"
+#~ msgstr "Регистрация"
+
+#~ msgid "Cancelled"
+#~ msgstr "Отмена"
+
+#~ msgid "Upcoming"
+#~ msgstr "Следующий"
+
+#~ msgid "Completed"
+#~ msgstr "Готово"
+
+#~ msgid "ID"
+#~ msgstr "Уд. личности"
+
+#~ msgid "Customer Name"
+#~ msgstr "Имя клиента"
+
+#~ msgid "Date From"
+#~ msgstr "Дата выезда"
+
+#~ msgid "Date To"
+#~ msgstr "Дата возвращения"
+
+#~ msgid "Accommodation Name"
+#~ msgstr "Название гостиницы"
+
+#~ msgid "Room Type"
+#~ msgstr "Тип номера"
+
+#~ msgid "Price"
+#~ msgstr "Цена"
+
+#~ msgid "Location"
+#~ msgstr "Пункт назначения"
+
+#~ msgid "Approve"
+#~ msgstr "Подтверждение"
+
+#~ msgid "Edit"
+#~ msgstr "Редактирование"
+
+#~ msgid "Trash"
+#~ msgstr "Отправить в корзину"
+
+#~ msgid "Unapprove"
+#~ msgstr "Отмена подтверждения"
+
+#~ msgid "Untrash"
+#~ msgstr "Извлечение из корзины"
+
+#~ msgid "Delete Permanently"
+#~ msgstr "Удалить навсегда"
+
+#~ msgid "Author"
+#~ msgstr "Автор"
+
+#~ msgid "Review"
+#~ msgstr "Рецензия"
+
+#~ msgid "Review Date (UTC)"
+#~ msgstr "Дата рецензии"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Переместить в корзину"
+
+#~ msgid "Restore"
+#~ msgstr "Восстановить"
+
+#~ msgid "Title"
+#~ msgstr "Заголовок"
+
+#~ msgid "Content"
+#~ msgstr "Контент"
+
+#~ msgid "Business"
+#~ msgstr "Деловая поездка"
+
+#~ msgid "Family"
+#~ msgstr "Семья"
+
+#~ msgid "Friends"
+#~ msgstr "Друзья"
+
+#~ msgid "Solo"
+#~ msgstr "Одиночка"
+
+#~ msgid "Other"
+#~ msgstr "Другое"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Locations"
+#~ msgstr "Пункты назначения"
+
+#~ msgid "All Locations"
+#~ msgstr "Все пункты назначения"
+
+#~ msgid "New Location"
+#~ msgstr "Новый пункт назначения"
+
+#~ msgid "Add Location"
+#~ msgstr "Добавить пункт назначения"
+
+#~ msgid "Edit Location"
+#~ msgstr "Редактировать пункт назначения"
+
+#~ msgid "Update Location"
+#~ msgstr "Обновить пункт назначения"
+
+#~ msgid "Separate locations with commas"
+#~ msgstr "Выделить пункты назначений запятыми"
+
+#~ msgid "Search Locations"
+#~ msgstr "Поиск пункта назначения"
+
+#~ msgid "Add or remove locations"
+#~ msgstr "Добавить или удалить пункт назначения"
+
+#~ msgid "Registration Form"
+#~ msgstr "Форма регистрации"
+
+#~ msgid "Lost Password"
+#~ msgstr "Пароль утерян"
+
+#~ msgid "Page %s"
+#~ msgstr "Страница %s"
+
+#~ msgid "REPLY"
+#~ msgstr "Ответить"
+
+#~ msgid "year"
+#~ msgstr "Год"
+
+#~ msgid "month"
+#~ msgstr "Месяц"
+
+#~ msgid "week"
+#~ msgstr "Неделя"
+
+#~ msgid "day"
+#~ msgstr "День"
+
+#~ msgid "hour"
+#~ msgstr "Час"
+
+#~ msgid "minute"
+#~ msgstr "Минута"
+
+#~ msgid "second"
+#~ msgstr "Секунда"
+
+#~ msgid "ago"
+#~ msgstr " "
+
+#~ msgid "just now"
+#~ msgstr "Сейчас"
+
+#~ msgid "By"
+#~ msgstr "Автор"
+
+#~ msgid "MORE"
+#~ msgstr "Ещё"
+
+#~ msgid "Continue reading"
+#~ msgstr "Читать дальше"
+
+#~ msgid "%"
+#~ msgstr "%"
+
+#~ msgid "Sorry, no posts matched your criteria. Please try another search."
+#~ msgstr ""
+#~ "Извините, публикации, соответствующие вашим критериям, отсутствуют. "
+#~ "Введите другие параметры поиска."
+
+#~ msgid "MY ACCOUNT"
+#~ msgstr "Мой профиль"
+
+#~ msgid "search"
+#~ msgstr "Поиск"
+
+#~ msgid "SEARCH"
+#~ msgstr "ПОИСК"
+
+#~ msgid "Posted By"
+#~ msgstr "Автор"
+
+#~ msgid "Misc"
+#~ msgstr "Разное"
+
+#~ msgid "During The Flight"
+#~ msgstr "В ходе полета"
+
+#~ msgid "Planning Your Flight"
+#~ msgstr "Планирование полета"
+
+#~ msgid "Flight Cost &amp; Savings"
+#~ msgstr "Стоимость полета и экономные решения"
+
+#~ msgid "Our Team"
+#~ msgstr "Наша команда"
+
+#~ msgid "Our Values"
+#~ msgstr "Наши принципы"
+
+#~ msgid "Follow Us on Facebook"
+#~ msgstr "Наша страница на сайте Фейсбук"
+
+#~ msgid "LynxJet"
+#~ msgstr "Компания LynxJet"
+
+#~ msgid "A password will be e-mailed to you."
+#~ msgstr "Пароль будет отправлен по электронной почте"
+
+#~ msgid "User Name"
+#~ msgstr "Имя пользователя"
+
+#~ msgid "Register as Business Owner"
+#~ msgstr "Регистрация предпринимателей"
+
+#~ msgid "Register For This Site"
+#~ msgstr "Регистрация на сайте"
+
+#~ msgid "Please enter your username or email address."
+#~ msgstr "Введите, пожалуйста, имя пользователя и адрес эл. почты"
+
+#~ msgid "You will receive a link to create a new password via email."
+#~ msgstr ""
+#~ "Ссылка для регистрации нового пароля будет отправлена на адрес вашей эл. "
+#~ "почты."
+
+#~ msgid "Check your e-mail for the confirmation link."
+#~ msgstr ""
+#~ "Проверьте, пожалуйста, ссылку подтвержения, отправленную вам по эл. почте."
+
+#~ msgid "Please login to your account."
+#~ msgstr "Войдите, пожалуйста, в свой профиль."
+
+#~ msgid "REGISTER"
+#~ msgstr "РЕГИСТРАЦИЯ"
+
+#~ msgid "Username or E-mail:"
+#~ msgstr "Имя пользователя и адрес эл. почты:"
+
+#~ msgid "Get New Password"
+#~ msgstr "Получить новый пароль"
+
+#~ msgid "Sign Up"
+#~ msgstr "Регистрация"
+
+#~ msgid "Invalid username or password"
+#~ msgstr "Неверное имя пользователя или пароль"
+
+#~ msgid "Enter your user name"
+#~ msgstr "Введите имя пользователя"
+
+#~ msgid "Enter your password"
+#~ msgstr "Введите пароль"
+
+#~ msgid "Remember my details"
+#~ msgstr "Запомнить меня"
+
+#~ msgid "LOGIN TO YOUR ACCOUNT"
+#~ msgstr "Войти в профиль"
+
+#~ msgid "Account Settings"
+#~ msgstr "Настройки профиля"
+
+#~ msgid "Change Your Password"
+#~ msgstr "Изменить пароль"
+
+#~ msgid "Password successfully changed."
+#~ msgstr "Пароль успешно изменен"
+
+#~ msgid "Password cannot be empty."
+#~ msgstr "Пароль не был введен"
+
+#~ msgid "Old Password"
+#~ msgstr "Старый пароль"
+
+#~ msgid "Enter New Password"
+#~ msgstr "Введите новый пароль"
+
+#~ msgid "Confirm New password"
+#~ msgstr "Подтвердите новый пароль"
+
+#~ msgid "UPDATE PASSWORD"
+#~ msgstr "Обновить пароль"
+
+#~ msgid "Change Your Email"
+#~ msgstr "Изменить адрес эл. почты"
+
+#~ msgid "Email successfully changed."
+#~ msgstr "Адрес эл. почты успешно изменен"
+
+#~ msgid "Email cannot be empty."
+#~ msgstr "Адрес эл. почты не был введен"
+
+#~ msgid "Enter New Email"
+#~ msgstr "Введите новый адрес эл. почты"
+
+#~ msgid "Confirm New Email"
+#~ msgstr "Подтвердите новый адрес эл. почты"
+
+#~ msgid "UPDATE EMAIL ADDRESS"
+#~ msgstr "Обновить адрес эл. почты"
+
+#~ msgid "Hi %s, Welcome to %s"
+#~ msgstr "Здравствуйте, %s, добро пожаловать на %s"
+
+#~ msgid "posted by"
+#~ msgstr "автор публикации "
+
+#~ msgid "Dashboard"
+#~ msgstr "Панель управления"
+
+#~ msgid "Profile"
+#~ msgstr "Профиль"
+
+#~ msgid "Settings"
+#~ msgstr "Настройки"
+
+#~ msgid "EDIT PROFILE"
+#~ msgstr "Редактировать профиль"
+
+#~ msgid "phone number"
+#~ msgstr "Номер телефона"
+
+#~ msgid "Date of birth"
+#~ msgstr "Дата рождения"
+
+#~ msgid "About You"
+#~ msgstr "Ваша персональная информация"
+
+#~ msgid "VIEW PROFILE"
+#~ msgstr "Просмотр профиля"
+
+#~ msgid "Personal Details"
+#~ msgstr "Личные данные"
+
+#~ msgid "First Name"
+#~ msgstr "Имя"
+
+#~ msgid "Last Name"
+#~ msgstr "Фамилия"
+
+#~ msgid "Email Address"
+#~ msgstr "Адрес эл. почты"
+
+#~ msgid "Date of Birth"
+#~ msgstr "Дата рождения"
+
+#~ msgid "Country Code"
+#~ msgstr "Код страны"
+
+#~ msgid "Phone Number"
+#~ msgstr "Номер телефона"
+
+#~ msgid "Upload Profile Photo"
+#~ msgstr "Загрузить фотографию профиля"
+
+#~ msgid "Describe Yourself"
+#~ msgstr "Расскажите немного о себе"
+
+#~ msgid "UPDATE SETTINGS"
+#~ msgstr "Обновление настроек"
+
+#~ msgid "Your Wish List"
+#~ msgstr "Ваши пожелания"

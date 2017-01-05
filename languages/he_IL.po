@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LynxJet Theme\n"
+"POT-Creation-Date: 2016-07-28 12:42+0300\n"
+"PO-Revision-Date: 2016-07-28 12:42+0300\n"
+"Last-Translator: Itay Banner <itay@ibanner.co.il>\n"
+"Language-Team: Itay Banner <itay@ibanner.co.il>\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: templates\n"
+"X-Poedit-SearchPath-2: .\n"
+
+#: 404.php:53 404.php:64 404.php:86 templates/headers/header7.php:90
+#: templates/headers/header7_bkp.php:90
+msgid "Home"
+msgstr "ראשי"
+
+#: 404.php:54 404.php:87 templates/headers/header7.php:91
+#: templates/headers/header7_bkp.php:91
+msgid "Configure"
+msgstr "הגדרה"
+
+#: 404.php:69
+msgid "The page <i>you were looking for</i> could not be found."
+msgstr "העמוד שחיפשת לא נמצא"
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "הפוסט הזה מוגן בסיסמה. הזן את הסיסמה כדי לצפות בתגובות"
+
+#: comments.php:28
+msgid "Comments are closed."
+msgstr "התגובות סגורות."
+
+#: comments.php:38
+msgid "Your Message"
+msgstr "ההודעה שלך"
+
+#: comments.php:39
+msgid "Leave a Comment"
+msgstr "כתוב תגובה"
+
+#: comments.php:40
+msgid "Your email address will not be published. All fields are required."
+msgstr "כתובת הדוא\"ל שלך לא תפורסם. יש להזין את כל השדות."
+
+#: comments.php:43
+msgid "Your Name"
+msgstr "השם שלך"
+
+#: comments.php:44
+msgid "Your Email"
+msgstr "הדוא\"ל שלך"
+
+#: footer.php:9 templates/headers/header7.php:7
+#: templates/headers/header7_bkp.php:7
+msgid "language_class"
+msgstr "hebrew"
+
+#: footer.php:31
+msgid "Site by"
+msgstr "אתר מבית"
+
+#: footer.php:31
+msgid "The Contechnician"
+msgstr "התוכנאי"
+
+#: footer.php:38
+msgid "LynxJet Private Flights"
+msgstr "לינקסג'ט טיסות פרטיות"
+
+#: single-post.php:53
+msgid "Previous Post"
+msgstr "הפוסט הקודם"
+
+#: single-post.php:57
+msgid "Next Post"
+msgstr "הפוסט הבא"
+
+#: single-post.php:62
+msgid "About Author"
+msgstr "אודות הכותב"
+
+#: single-post.php:86
+msgid "Posts"
+msgstr "פוסטים"
+
+#: single-post.php:90
+msgid "You Might Also Like This"
+msgstr "פוסטים נוספים שאולי יעניינו אותך"
+
+#: templates/headers/header7.php:31 templates/headers/header7_bkp.php:31
+msgid "For Travel Agents"
+msgstr "מידע לסוכני נסיעות"
+
+#: templates/inners/inner-1.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש אחר: %s"
+
+#: templates/inners/inner-1.php:23
+#, php-format
+msgid "Activities in %s"
+msgstr "פעילויות ב%s"
+
+#: templates/loop-blog.php:20
+msgid "Posted By"
+msgstr "מאת"
+
+#: templates/template-aircraft-category.php:31
+msgid "Category Description"
+msgstr "על הקטגוריה"
+
+#: templates/template-aircraft-category.php:37
+#: templates/template-aircraft.php:82
+msgid "Tech Spec"
+msgstr "מפרט טכני"
+
+#: templates/template-aircraft-category.php:40
+#: templates/template-aircraft.php:85
+msgid "Maximum Passengers"
+msgstr "מספר נוסעים מירבי"
+
+#: templates/template-aircraft-category.php:41
+#: templates/template-aircraft.php:87
+msgid "Maximum Range"
+msgstr "טווח מירבי"
+
+#: templates/template-aircraft-category.php:41
+#: templates/template-aircraft.php:87
+msgid "Km"
+msgstr "ק\"מ"
+
+#: templates/template-aircraft-category.php:42
+#: templates/template-aircraft.php:86
+msgid "Maximum Cruising Speed"
+msgstr "מהירות שיוט מירבית"
+
+#: templates/template-aircraft-category.php:42
+#: templates/template-aircraft.php:86
+msgid "KmH"
+msgstr "קמש"
+
+#: templates/template-aircraft-category.php:50
+msgid "Category Jets"
+msgstr "מטוסי הקטגוריה"
+
+#: templates/template-aircraft-main.php:28
+msgid "Our Aircraft Fleet"
+msgstr "צי המטוסים שלנו"
+
+#: templates/template-aircraft-main.php:29
+msgid ""
+"Which aircraft will best suit your flight plans? Let us help you choose the "
+"model that will fit your needs!"
+msgstr ""
+"איזה מטוס יתאים לכם? תנו לנו לעזור לכם למצוא את מטוס המנהלים הנכון ביותר "
+"לצרכים שלכם"
+
+#: templates/template-aircraft.php:16
+msgid "Full"
+msgstr "מלאים"
+
+#: templates/template-aircraft.php:19
+msgid "Partial"
+msgstr "חלקיים"
+
+#: templates/template-aircraft.php:22
+msgid "None"
+msgstr "ללא"
+
+#: templates/template-aircraft.php:53
+msgid "Aircraft Description"
+msgstr "תיאור המטוס"
+
+#: templates/template-aircraft.php:88
+msgid "Cabin Height"
+msgstr "גובה תא הנוסעים"
+
+#: templates/template-aircraft.php:88 templates/template-aircraft.php:89
+#: templates/template-aircraft.php:90
+msgid "Cm"
+msgstr "ס\"מ"
+
+#: templates/template-aircraft.php:89
+msgid "Cabin Width"
+msgstr "רוחב תא הנוסעים"
+
+#: templates/template-aircraft.php:90
+msgid "Cabin Length"
+msgstr "אורך תא הנוסעים"
+
+#: templates/template-aircraft.php:91
+msgid "Lavatory"
+msgstr "שירותים"
+
+#: templates/template-destination.php:25
+msgid "By Private Jet"
+msgstr "במטוס פרטי"
+
+#: templates/template-destination.php:32
+#, php-format
+msgid "Flying Private to %s"
+msgstr "טיסה פרטית ל%s"
+
+#~ msgid "General Information"
+#~ msgstr "מידע כללי"
+
+#~ msgid "Operation Hours"
+#~ msgstr "שעות פעילות"
+
+#~ msgid "Flight Duration (From Israel)"
+#~ msgstr "משך הטיסה מישראל"
+
+#~ msgid "Airport Website"
+#~ msgstr "אתר אינטרנט"
+
+#~ msgid "Private Jet Parking Limitations in %s"
+#~ msgstr "מגבלות חנייה למטוסים פרטיים ב%s"
+
+#~ msgid "VIP Services in %s"
+#~ msgstr "שירותי VIP ב%s"
+
+#~ msgid "VIP Lounge"
+#~ msgstr "טרקלין VIP"
+
+#~ msgid "Priority Passpost Control"
+#~ msgstr "בידוק דרכונים בעדיפות"
+
+#~ msgid "VIP Lounge Passpost Control"
+#~ msgstr "בידוק דרכונים בטרקלין VIP"
+
+#~ msgid "Private Jet Parking Limitations in"
+#~ msgstr "מגבלות חנייה למטוסים פרטיים ב"
+
+#~ msgid "VIP Services in"
+#~ msgstr "שירותי VIP ב"
+
+#~ msgid "Private Jet Parking Limitations in %1$s"
+#~ msgstr "מגבלות חנייה למטוסים פרטיים ב%1$s"
+
+#~ msgid "VIP Services in %1$s"
+#~ msgstr "שירותי VIP ב%1$s"
+
+#~ msgid "Write Message Here"
+#~ msgstr "התגובה שלך כאן"
