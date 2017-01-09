@@ -104,6 +104,20 @@ p.hero {
     padding-right: 50%;
 }
 
+.flag-container {
+    left: 0;
+}
+
+.intl-tel-input .selected-flag .iti-flag {
+    left: 8px;
+}
+
+.country-list {
+    direction: ltr;
+    text-align: left;
+    left: 0;
+}
+
 #submit input {
     width: 100%;
     margin: 0 0 0 4px;
